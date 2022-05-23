@@ -10,7 +10,8 @@ export const GifExpertApp = () =>{
     return (
         <React.StrictMode>
             <div>
-                <h2>GifExpertApp</h2>
+                <h1>APP CON REACT VERSION 18</h1>
+                <h2>Ingrese un palabra para buscar una lista de imagenes</h2>
                 <AddCategorias setCategorias = { setCategorias }></AddCategorias>
 
                 <hr></hr>
