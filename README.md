@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## DEPLOY
+link de la aplicacion: [App en React](https://omar2108.github.io/gifExpertAppReact/) 
+
 ## Available Scripts
 
 In the project directory, you can run:
